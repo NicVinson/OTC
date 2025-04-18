@@ -1,0 +1,17 @@
+Test Case 1:
+
+hello - fail
+goodbye - fail
+Mechanical-or-Software-Engineering-1 - pass
+
+Test Case 2:
+
+mechanical - fail
+electrical - fail
+Mechanical-or-Software-Engineering-1 - pass
+
+Test Case 3: 
+
+Mechanical-or-Software-Engineering-2 - fail
+Mechanical-or-Software-ngineering-1 - fail
+Mechanical-or-Software-Engineering-1 - pass
