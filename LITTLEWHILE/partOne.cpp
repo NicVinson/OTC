@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include <stdio.h>
+
 
 using std::cout;
 using std::cin;
