@@ -25,5 +25,5 @@ int main(){
     //output a welcome message
     cout << "\nWelcome to indecision!\n";
 
-    
+    outputFile.close();
 }

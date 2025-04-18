@@ -15,3 +15,9 @@ Test Case 3:
 Mechanical-or-Software-Engineering-2 - fail
 Mechanical-or-Software-ngineering-1 - fail
 Mechanical-or-Software-Engineering-1 - pass
+
+Test Case 4:
+
+Mechanical-or-Software-Engineering-2 - fail
+MechanicalSoftware-Engineering-2 - fail
+Mechanical-or-Software-Engineering-1 - pass
