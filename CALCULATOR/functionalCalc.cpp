@@ -63,4 +63,5 @@ int main(){
     functionality(userNum1, userNum2, userSelection, result);
     
     cout << "Hello World";
+    cout << "Goodbye";
 }
