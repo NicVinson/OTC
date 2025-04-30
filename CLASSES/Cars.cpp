@@ -43,7 +43,10 @@ public:
 };
 
 int main(){
-
+    vector<string> prevOwners = {"Tod", "Michael", "Keving", "Gertrude"};  //Created a random list of 4 names to represent the previous owners
+    Car usedCar("1HGCM82633A004859", "Honda", "Accord", 2012, 102345, prevOwners);  //For the VIN I used ai to generate a random not real VIN number
+    usedCar.displayInfo();  // Called displayInfo on used car to display the info(Similar to what a carfax report does)
+    return 0;
 }
 
 // What attributes--if any--should be private, and why? (Sorry if the grammar is bad it has been a long day at work)
