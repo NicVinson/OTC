@@ -107,7 +107,7 @@ class Lion: public Animal{
 class Elephant: public Animal{
     public:
         Elephant(string name, int age, Diet diet, Habitat habitat)
-        :Animal(name, age, "Lion", diet, habitat){}
+        :Animal(name, age, "Elephant", diet, habitat){}
     void animalSound() const override{
         cout << animalName << "yells: Woooooooo!\n";
         cout << "\n";
