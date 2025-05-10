@@ -1,3 +1,5 @@
+//Writing of this code was assisted, not copied. I used the internet like stackoverflow, codecademy, and old class mates. If there are any issues that I need to clear up I can, I wanted to do this assignment to the best of my ability and using real world strategies.
+
 #include <iostream>
 #include <string>
 #include <vector>
